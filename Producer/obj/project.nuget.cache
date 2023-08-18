@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/jVxKxgydmAzS/A64G4mCWB5zUmsZ02yNEe3EmTSXglHKQh6AkjmohLe6OBY/wiRCLij2Q4puZKHe7p4QVagGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KERIMO\\Desktop\\Kafka\\Producer\\Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KERIMO\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
+    "C:\\Users\\KERIMO\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
+    "C:\\Users\\KERIMO\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
